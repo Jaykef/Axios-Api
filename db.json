@@ -243,6 +243,15 @@
       "seat_location": "Window",
       "cinsiyet": "",
       "occupancy": 0
+    },
+    {
+      "id": 17,
+      "trip_id": 1,
+      "seat_number": 17,
+      "seat_type": "Aisle",
+      "seat_location": "Window",
+      "cinsiyet": "",
+      "occupancy": 0
     }
   ]
 }
